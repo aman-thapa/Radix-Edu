@@ -42,7 +42,6 @@ Using the following 4 Methods:
 * Random Forest
 * 3-layer dense Neural Network
 <br>
-<br>
 I tried to show the relative performance of each method to predict forest fires from the dataset available at the UCI Machine Learning Repository.
 
 ---
