@@ -28,10 +28,8 @@ column which is set to 0 for fit and 1 for PD, i.e. this is a binary classificat
 The test should have at maximum a False Negative Rate of 0.1%, that is the test
 sensitivity should be high, at least 0.9% as it is more important to identify patients with
 the disease correctly.
-
 <br>
 <br>
-
 **Solution**: [Code](https://github.com/aman-thapa/Radix-Edu/blob/main/Parkinson%E2%80%99s%20Disease%20Detection/Parkinson's%20Disease%20Prediction.ipynb)
 
 ---
